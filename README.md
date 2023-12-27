@@ -1,5 +1,2 @@
-# cs411group17
-
-Based on available ingredients, provide recipes and dishes using those ingredients. Spotify playlist for meal time based on the recipes they selected. 
-
-Video link: https://drive.google.com/drive/folders/1zvCre_l0z82Q-Fh2Yqep2NMZ0bI_zBjK?usp=sharing
+# Meal + Music 
+You just list what ingredients you've got, and it gives you easy and tasty recipes with step-by-step guides. It's not just about food though – it also hooks up with Spotify to create playlists that vibe with your cooking style. This is made with React and Flask. Group Project
